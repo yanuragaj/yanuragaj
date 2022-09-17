@@ -1,8 +1,6 @@
 ### Hi Folks 👋
 ### I'm Anurag Yadav.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanuragaj&label=Profile%20views&color=0e75b6&style=flat" alt="yanuragaj" /> </p>
-
 # About Me
 ◆ As I believe in myself and always strive to learn different-different technologies/concepts ◆ 
 
@@ -13,7 +11,8 @@
 👉 Never stop learning...
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yanuragaj&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yanuragaj)
+![Github stats](https://github-readme-stats.vercel.app/api?username=yanuragaj&theme=highcontrast&show_icons=true&count_private=true) 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yanuragaj)
 
 
 - 📫 How to reach me: yanuragaj@gmail.com
