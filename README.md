@@ -2,9 +2,9 @@
 ### I'm Anurag Yadav.
 
 - 📫 How to reach me: yanuragaj@gmail.com
-- 😄 Connect with me : https://www.linkedin.com/in/yadav-anurag/
+- 🚀 Feel free to connect with me: https://www.linkedin.com/in/yadav-anurag/
 
-# About ME
+# About Me
 ◆ As I believe in myself and always strive to learn different-different technologies/concepts ◆ 
 
 👉 I still remember when I got my first personal computer and when my love for technology started. My curiosity about techs started increasing and learned multiple programming languages (Python, Dart, C++, GO). I firmly believe in sharing knowledge, and experiences and helping each other. 
