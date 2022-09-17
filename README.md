@@ -1,6 +1,8 @@
 ### Hi Folks 👋
 ### I'm Anurag Yadav.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanuragaj&label=Profile%20views&color=0e75b6&style=flat" alt="yanuragaj" /> </p>
+
 # About Me
 ◆ As I believe in myself and always strive to learn different-different technologies/concepts ◆ 
 
