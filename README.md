@@ -1,99 +1,169 @@
 <h1 align="center">
-  Anurag Yadav
+  ⚡ 𝘼𝙉𝙐𝙍𝘼𝙂 𝙔𝘼𝘿𝘼𝙑 ⚡
 </h1>
 
 <p align="center">
-  <strong>DevOps Engineer • Platform Engineer • Cloud Architect</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Platform+Engineer;Cloud+Architect;Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Building cloud platforms, Kubernetes infrastructure, automation systems and developer tooling.
+  <code>❯ Building cloud platforms, Kubernetes infrastructure & developer tooling</code>
 </p>
 
-```bash
-$ whoami
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yanuragaj&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-Anurag Yadav
+---
 
-Role        : SDE - DevOps Engineer
-Experience  : 3.5+ Years
-Location    : Mumbai, India
-Company     : Lexsi Labs
-Previously  : VegaStack
+## 🚀 $ whoami
 
-Focus Areas :
-- Kubernetes
-- Platform Engineering
-- Multi-Cloud Infrastructure
-- Terraform
-- GitOps
-- CI/CD Automation
-- Zero Trust Security
-- Backend Systems & Scripting
+```yaml
+NAME: Anurag Yadav
+ROLE: SDE - DevOps Engineer
+EXPERIENCE: 3.5+ Years
+LOCATION: Mumbai, India
+COMPANY: Lexsi Labs
+PREVIOUSLY: VegaStack
+
+EXPERTISE:
+  ▸ Kubernetes & Container Orchestration
+  ▸ Platform Engineering
+  ▸ Multi-Cloud Infrastructure
+  ▸ Infrastructure as Code 
+  ▸ GitOps & CI/CD Automation
+  ▸ Zero Trust Security
+  ▸ Backend Systems & Scripting
 ```
 
 ---
 
-## Tech Stack
+## ☁️ Cloud Platforms
 
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge\&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/GCP-black?style=for-the-badge\&logo=googlecloud)
-![Nebius](https://img.shields.io/badge/Nebius-black?style=for-the-badge)
-
-### Platform Engineering
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge\&logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge\&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge\&logo=ansible)
-
-### CI/CD
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=githubactions)
-![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge\&logo=gitlab)
-
-### Monitoring
-
-![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge\&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge\&logo=grafana)
-![Loki](https://img.shields.io/badge/Loki-black?style=for-the-badge)
-
-### Languages
-
-![Go](https://img.shields.io/badge/Go-black?style=for-the-badge\&logo=go)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
-
----
-
-## GitHub Metrics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yanuragaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanuragaj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yanuragaj&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nebius-00C7B7?style=for-the-badge"/>
 </p>
 
 ---
 
-## Connect
+## 🏗️ Platform & Infrastructure
 
-* LinkedIn → https://linkedin.com/in/yadav-anurag
-* Portfolio → https://stacklookup.me
-* Email → [yanuragaj@gmail.com](mailto:yanuragaj@gmail.com)
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Crossplane-3B82F6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/>
+</p>
 
 ---
 
-```bash
-$ philosophy
+## 🔄 CI/CD & GitOps
 
-"Automate everything that can be automated.
-Simplify complexity, secure by default, and optimize for scale."
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+</p>
+
+---
+
+## 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yanuragaj&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&icon_color=00FF88&title_color=00FF88" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanuragaj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88" /> </p><p align="center"> <img src="https://streak-stats.demolab.com?user=yanuragaj&theme=neon-dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FFD700&currStreakNum=00FF88&sideNums=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yanuragaj&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" /> </p>
+
+---
+
+---
+## 🔥 CONTRIBUTION GRAPH
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanuragaj/yanuragaj/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanuragaj/yanuragaj/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/yanuragaj/yanuragaj/output/github-contribution-grid-snake.svg" /> </picture>
+
+---
+
+## 🎯 Current Focus
+
+```go
+package main
+
+type DevOpsEngineer struct {
+    Learning     []string
+    Building     []string
+    Optimizing   []string
+}
+
+func main() {
+    anurag := DevOpsEngineer{
+        Learning:   []string{"eBPF", "WASM", "Crossplane", "KubeVirt"},
+        Building:   []string{"Internal Developer Portal", "Self-Service Platform"},
+        Optimizing: []string{"K8s Cost Optimization", "CI/CD Pipeline Efficiency"},
+    }
+    
+    fmt.Printf("🚀 Building the future of cloud infrastructure\n")
+}
 ```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yadav-anurag">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://stacklookup.me">
+    <img src="https://img.shields.io/badge/StackLookup-00FF88?style=for-the-badge"/>
+  </a>
+
+  <a href="mailto:yanuragaj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/yanuragaj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+$ cat philosophy.txt
+
+┌─────────────────────────────────────────────────────────────┐
+│  "Automate everything that can be automated.               │
+│   Simplify complexity, secure by default,                  │
+│   and optimize for scale."                                 │
+│                                                             │
+│   🚀 Keep building. Keep shipping. Keep learning.         │
+└─────────────────────────────────────────────────────────────┘
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=footer"/>
+</p>
