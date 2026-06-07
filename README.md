@@ -1,118 +1,99 @@
-# <div align="center">Anurag Yadav</div>
+<h1 align="center">
+  Anurag Yadav
+</h1>
 
-<div align="center">
+<p align="center">
+  <strong>DevOps Engineer • Platform Engineer • Cloud Architect</strong>
+</p>
 
-### DevOps Engineer • Platform Engineer • Cloud Architect
+<p align="center">
+Building cloud platforms, Kubernetes infrastructure, automation systems and developer tooling.
+</p>
 
-Building cloud platforms, Kubernetes infrastructure, automation systems, and developer tooling.
-
-</div>
-
----
-
-```console
-anurag@platform:~$ whoami
+```bash
+$ whoami
 
 Anurag Yadav
 
 Role        : SDE - DevOps Engineer
 Experience  : 3.5+ Years
 Location    : Mumbai, India
+Company     : Lexsi Labs
+Previously  : VegaStack
 
-Current     : Lexsi Labs
-Previous    : VegaStack
-
-anurag@platform:~$ focus-areas
-
-✓ Kubernetes & Platform Engineering
-✓ Multi-Cloud Infrastructure
-✓ Infrastructure as Code (Terraform)
-✓ GitOps & CI/CD Automation
-✓ Zero Trust Architecture
-✓ Observability & Monitoring
-✓ Backend Systems & Automation
-✓ Cloud Security & Reliability
-
-anurag@platform:~$ currently-building
-
-→ TMSync
-→ Stack Lookup
-→ Secret Management Platform
-→ Crossplane Providers
-
-anurag@platform:~$ philosophy
-
-Automate everything that can be automated.
-Simplify complexity.
-Secure by default.
-Optimize for reliability and scale.
-
-anurag@platform:~$ _
+Focus Areas :
+- Kubernetes
+- Platform Engineering
+- Multi-Cloud Infrastructure
+- Terraform
+- GitOps
+- CI/CD Automation
+- Zero Trust Security
+- Backend Systems & Scripting
 ```
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-<div align="center">
+### Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,github,gitlab,grafana,prometheus,go,python,bash,linux" />
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge\&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/GCP-black?style=for-the-badge\&logo=googlecloud)
+![Nebius](https://img.shields.io/badge/Nebius-black?style=for-the-badge)
 
-</div>
+### Platform Engineering
 
----
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge\&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge\&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge\&logo=ansible)
 
-## 📊 GitHub Metrics
+### CI/CD
 
-<div align="center">
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=githubactions)
+![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge\&logo=gitlab)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yanuragaj&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true"/>
+### Monitoring
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanuragaj&layout=compact&theme=transparent&hide_border=true"/>
+![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge\&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge\&logo=grafana)
+![Loki](https://img.shields.io/badge/Loki-black?style=for-the-badge)
 
-</div>
+### Languages
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yanuragaj&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Certifications
-
-* Red Hat Certified Specialist in Containers and Kubernetes
-
----
-
-## 🌐 Connect
-
-```console
-anurag@platform:~$ links
-
-LinkedIn  : https://linkedin.com/in/yadav-anurag
-Portfolio : https://stacklookup.me
-Email     : yanuragaj@gmail.com
-GitHub    : https://github.com/yanuragaj
-```
+![Go](https://img.shields.io/badge/Go-black?style=for-the-badge\&logo=go)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
 
 ---
 
-<div align="center">
-
-### "Build once. Automate forever."
-
-</div>
-
-<!-- Profile Views -->
+## GitHub Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yanuragaj&style=flat-square" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yanuragaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanuragaj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Optional Snake Contribution Graph -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yanuragaj&theme=tokyonight&hide_border=true" />
+</p>
 
-<!--
-![snake gif](https://github.com/yanuragaj/yanuragaj/blob/output/github-contribution-grid-snake.svg)
--->
+---
+
+## Connect
+
+* LinkedIn → https://linkedin.com/in/yadav-anurag
+* Portfolio → https://stacklookup.me
+* Email → [yanuragaj@gmail.com](mailto:yanuragaj@gmail.com)
+
+---
+
+```bash
+$ philosophy
+
+"Automate everything that can be automated.
+Simplify complexity, secure by default, and optimize for scale."
+```
