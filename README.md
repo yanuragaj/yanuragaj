@@ -15,7 +15,7 @@ $ whoami
 
 Anurag Yadav
 
-Role        : DevOps Engineer
+Role        : SDE - DevOps Engineer
 Experience  : 3.5+ Years
 Location    : Mumbai, India
 Company     : Lexsi Labs
@@ -29,13 +29,7 @@ Focus Areas :
 - GitOps
 - CI/CD Automation
 - Zero Trust Security
-- Backend Systems (Go)
-
-Current Projects :
-- TMSync
-- Stack Lookup
-- Secret Management Platform
-- Crossplane Providers
+- Backend Systems & Scripting
 ```
 
 ---
@@ -100,5 +94,6 @@ Current Projects :
 ```bash
 $ philosophy
 
-"Automate everything that can be automated."
+"Automate everything that can be automated.
+Simplify complexity, secure by default, and optimize for scale."
 ```
