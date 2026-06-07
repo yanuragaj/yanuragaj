@@ -154,6 +154,9 @@ func main() {
 
 ---
 
+## 📜 Philosophy
+
+```bash
 $ cat philosophy.txt
 
 ┌─────────────────────────────────────────────────────────────┐
@@ -161,8 +164,10 @@ $ cat philosophy.txt
 │   Simplify complexity, secure by default,                  │
 │   and optimize for scale."                                 │
 │                                                             │
-│   🚀 Keep building. Keep shipping. Keep learning.         │
+│   🚀 Keep building. Keep shipping. Keep learning.          │
 └─────────────────────────────────────────────────────────────┘
+```
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=footer"/>
