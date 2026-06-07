@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡ 𝘼𝙉𝙐𝙍𝘼𝙂 𝙔𝘼𝘿𝘼𝙑 ⚡
+  Anurag Yadav
 </h1>
 
 <p align="center">
