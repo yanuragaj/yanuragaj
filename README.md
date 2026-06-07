@@ -97,7 +97,7 @@ EXPERTISE:
 
 ## 📈 GitHub Statistics
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=yanuragaj&theme=neon-dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FFD700&currStreakNum=00FF88&sideNums=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yanuragaj&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=yanuragaj&theme=neon-dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FFD700&currStreakNum=00FF88&sideNums=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF" /> </p><p align="center"> </p>
 
 ---
 
@@ -116,7 +116,7 @@ type DevOpsEngineer struct {
 
 func main() {
     anurag := DevOpsEngineer{
-        Learning:   []string{"eBPF", "WASM", "Crossplane", "KubeVirt"},
+        Learning:   []string{"Crossplane", "KubeVirt", "KubeFlow"},
         Building:   []string{"Internal Developer Portal", "Self-Service Platform"},
         Optimizing: []string{"K8s Cost Optimization", "CI/CD Pipeline Efficiency"},
     }
@@ -155,11 +155,11 @@ func main() {
 $ cat philosophy.txt
 
 ┌─────────────────────────────────────────────────────────────┐
-│  "Automate everything that can be automated.               │
-│   Simplify complexity, secure by default,                  │
-│   and optimize for scale."                                 │
+│  "Automate everything that can be automated.                │
+│   Simplify complexity, secure by default,                   │
+│   and optimize for scale."                                  │
 │                                                             │
-│   🚀 Keep building. Keep shipping. Keep learning.          │
+│   🚀 Keep building. Keep shipping. Keep learning.           │
 └─────────────────────────────────────────────────────────────┘
 ```
 
