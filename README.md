@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 $ whoami
+## 🚀 $whoami
 
 ```yaml
 NAME: Anurag Yadav
