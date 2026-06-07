@@ -97,14 +97,9 @@ EXPERTISE:
 
 ## 📈 GitHub Statistics
 
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yanuragaj&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&icon_color=00FF88&title_color=00FF88" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanuragaj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88" /> </p><p align="center"> <img src="https://streak-stats.demolab.com?user=yanuragaj&theme=neon-dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FFD700&currStreakNum=00FF88&sideNums=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yanuragaj&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=yanuragaj&theme=neon-dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FFD700&currStreakNum=00FF88&sideNums=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yanuragaj&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" /> </p>
 
 ---
-
----
-## 🔥 CONTRIBUTION GRAPH
-
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanuragaj/yanuragaj/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanuragaj/yanuragaj/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/yanuragaj/yanuragaj/output/github-contribution-grid-snake.svg" /> </picture>
 
 ---
 
