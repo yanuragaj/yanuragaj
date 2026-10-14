@@ -134,10 +134,6 @@ func main() {
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://stacklookup.me">
-    <img src="https://img.shields.io/badge/StackLookup-00FF88?style=for-the-badge"/>
-  </a>
-
   <a href="mailto:yanuragaj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
